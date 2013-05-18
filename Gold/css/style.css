@@ -1,0 +1,138 @@
+/*
+title: MIU Project 2 
+name: Gary W. Hunter Looney
+date: 05/17/13
+*/
+
+img, object {
+	max-width:90%;
+	max-height:90%;
+}
+
+Gender3, object {
+	max-height: 5px;
+}
+
+html {
+    background-color: #000000;
+}
+
+body {
+    font-family: "Courier New";
+    background-color: #006637;
+    color: #ffea00;
+    text-align:left
+	width: 300px;
+    font-weight: bold;
+
+}
+
+footer {
+	font-family: "Courier New";
+    background-color: #006637;
+    color: #ffea00;
+    text-align:right;
+	font-size: 70%;
+	width: 300px;
+
+}
+
+#wrap { 
+	width: 300px; 
+	margin: 0 auto; 
+}
+
+#race {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#addCharacter {
+    width: 300px; 
+    background-color: #ffea00;
+    color: #006637;
+    text-align:center;
+    font-weight: bold;
+    letter-spacing:2px;
+	font-variant:caps;
+	height: 30px;
+}
+
+#feature {
+		width: 300px;
+}
+
+#search {
+	width: 300px; 
+    background-color: #ffea00;
+    color: #006637;
+    text-align:center;
+    font-weight: bold;
+    letter-spacing:2px;
+	font-variant:caps;
+	height: 30px;
+}
+
+#glassPic {
+	width: 300px; 
+	height: 40px;
+}
+
+#genderPic {
+	width: 300px; 
+	height: 40px;
+}
+
+#racePic {
+	width: 300px; 
+	height: 40px;
+}
+
+#heightPic {
+	width: 300px; 
+	height: 40px;
+}
+
+#birthdatePic {
+	width: 300px; 
+	height: 40px;
+}
+
+#cname {
+    width: 80%;
+}
+
+#glasses {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#sex {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#birthdate {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#height {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#clearButton {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#submitButton {
+    background-color: #ffea00;
+    color: #006637;
+}
+
+#displayButton {
+    background-color: #ffea00;
+    color: #006637;
+}
