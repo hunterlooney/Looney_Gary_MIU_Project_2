@@ -171,6 +171,16 @@ function validate (event) {
 	}
 }
 
+
+
+
+
+
+var produceDataGender = document.getElementById("produceData");
+
+produceDataGender.addEventListener("click", getTheData);
+
+
 var displayButton = document.getElementById('displayButton');
 var errorMessageTwo = ('error');
 
